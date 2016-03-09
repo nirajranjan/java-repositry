@@ -1,5 +1,5 @@
 package com.basic.nrjbank.exceptions;
 
-public class AccountNotFoundsException {
-
+public class AccountNotFoundsException extends RuntimeException{
+	
 }
